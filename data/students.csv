@@ -1,0 +1,79 @@
+student_id,first_name,last_name,major,gpa,email,processed
+S20816,Mary,Garcia,Engineering,3.81,mary.garcia96@university.edu,True
+S15651,Elizabeth,Johnson,Business,3.39,elizabeth.johnson98@university.edu,True
+S87807,Mary,Brown,AI,3.07,mary.brown97@university.edu,True
+S29661,Michael,Rodriguez,Data Science,3.31,michael.rodriguez97@university.edu,True
+S44580,Jennifer,Jones,Engineering,3.76,jennifer.jones90@university.edu,True
+S98809,Jennifer,Smith,AI,3.05,jennifer.smith85@university.edu,True
+S72622,Jennifer,Garcia,Computer Science,2.43,jennifer.garcia98@university.edu,True
+S69700,Jennifer,Brown,Data Science,3.35,jennifer.brown86@university.edu,True
+S83795,Mary,Rodriguez,AI,3.12,mary.rodriguez82@university.edu,True
+S20610,Mary,Miller,Computer Science,3.0,mary.miller84@university.edu,True
+S84488,James,Davis,Business,2.69,james.davis81@university.edu,True
+S93444,Patricia,Johnson,Computer Science,3.23,patricia.johnson83@university.edu,True
+S41688,Michael,Martinez,AI,3.03,michael.martinez81@university.edu,True
+S30452,Mary,Miller,AI,2.67,mary.miller80@university.edu,True
+S28430,Elizabeth,Rodriguez,AI,2.03,elizabeth.rodriguez83@university.edu,True
+S85421,Robert,Rodriguez,Data Science,2.04,robert.rodriguez84@university.edu,True
+S53797,Robert,Smith,Data Science,2.63,robert.smith88@university.edu,True
+S30189,James,Davis,Data Science,3.73,james.davis87@university.edu,True
+S27691,John,Martinez,AI,2.86,john.martinez95@university.edu,True
+S63697,James,Williams,Business,2.83,james.williams94@university.edu,True
+S41533,Patricia,Jones,Engineering,3.56,patricia.jones85@university.edu,True
+S11898,Mary,Garcia,Business,3.47,mary.garcia98@university.edu,True
+S98950,Michael,Smith,Business,3.09,michael.smith94@university.edu,True
+S99061,Jennifer,Martinez,Engineering,3.28,jennifer.martinez88@university.edu,True
+S37522,William,Smith,AI,3.4,william.smith87@university.edu,True
+S68408,John,Martinez,Business,3.96,john.martinez94@university.edu,True
+S24816,Elizabeth,Williams,Computer Science,2.22,elizabeth.williams80@university.edu,True
+S55387,William,Brown,Computer Science,3.03,william.brown98@university.edu,True
+S87140,Mary,Brown,AI,2.47,mary.brown80@university.edu,True
+S80783,Robert,Rodriguez,Computer Science,3.61,robert.rodriguez97@university.edu,True
+S22253,John,Miller,Business,2.58,john.miller90@university.edu,True
+S75095,Mary,Williams,Data Science,3.4,mary.williams81@university.edu,True
+S44742,Patricia,Martinez,AI,3.19,patricia.martinez95@university.edu,True
+S89590,Linda,Smith,Computer Science,3.8,linda.smith94@university.edu,True
+S43571,Linda,Martinez,Engineering,3.75,linda.martinez91@university.edu,True
+S72299,Elizabeth,Davis,AI,2.26,elizabeth.davis87@university.edu,True
+S72102,Patricia,Rodriguez,Computer Science,3.36,patricia.rodriguez88@university.edu,True
+S81775,Jennifer,Rodriguez,Data Science,3.23,jennifer.rodriguez97@university.edu,True
+S58652,Michael,Rodriguez,Business,2.07,michael.rodriguez92@university.edu,True
+S64595,Robert,Brown,Engineering,2.87,robert.brown98@university.edu,True
+S36423,Jennifer,Jones,Data Science,2.1,jennifer.jones99@university.edu,True
+S19492,Michael,Jones,Computer Science,2.72,michael.jones81@university.edu,True
+S12146,Michael,Rodriguez,AI,3.66,michael.rodriguez98@university.edu,True
+S31809,Patricia,Smith,Business,3.03,patricia.smith83@university.edu,True
+S12809,James,Martinez,Business,3.11,james.martinez87@university.edu,True
+S40897,Elizabeth,Garcia,AI,2.62,elizabeth.garcia94@university.edu,True
+S46731,Linda,Brown,Engineering,2.53,linda.brown92@university.edu,True
+S19628,Patricia,Williams,AI,3.06,patricia.williams86@university.edu,True
+S30985,Jennifer,Davis,Computer Science,3.02,jennifer.davis84@university.edu,True
+S35788,John,Williams,Data Science,2.82,john.williams85@university.edu,True
+S88392,Jennifer,Davis,Computer Science,2.11,jennifer.davis85@university.edu,True
+S54906,John,Smith,AI,3.47,john.smith91@university.edu,True
+S12310,Robert,Miller,Business,2.05,robert.miller95@university.edu,True
+S79644,William,Smith,AI,2.15,william.smith91@university.edu,True
+S90825,Michael,Johnson,Business,3.29,michael.johnson89@university.edu,True
+S99172,Robert,Rodriguez,AI,3.93,robert.rodriguez90@university.edu,True
+S82591,Mary,Garcia,AI,3.77,mary.garcia92@university.edu,True
+S60629,Michael,Garcia,Computer Science,3.84,michael.garcia96@university.edu,True
+S95377,Mary,Jones,Computer Science,2.07,mary.jones80@university.edu,True
+S23327,John,Miller,Business,2.57,john.miller83@university.edu,True
+S39595,Michael,Martinez,Engineering,3.02,michael.martinez85@university.edu,True
+S60821,Michael,Garcia,Data Science,2.66,michael.garcia89@university.edu,True
+S42543,Elizabeth,Miller,Engineering,3.22,elizabeth.miller83@university.edu,True
+S84930,Elizabeth,Davis,Computer Science,3.83,elizabeth.davis85@university.edu,True
+S73641,Robert,Miller,Computer Science,2.62,robert.miller81@university.edu,True
+S72601,Elizabeth,Jones,AI,2.14,elizabeth.jones90@university.edu,True
+S32292,Mary,Davis,AI,2.38,mary.davis91@university.edu,True
+S40412,Michael,Jones,Engineering,3.09,michael.jones96@university.edu,True
+S22230,William,Jones,AI,3.08,william.jones86@university.edu,True
+S42031,Michael,Johnson,AI,2.41,michael.johnson83@university.edu,True
+S80528,Patricia,Johnson,Business,2.74,patricia.johnson90@university.edu,True
+S27952,Patricia,Williams,Business,3.89,patricia.williams90@university.edu,True
+S92531,John,Brown,Computer Science,3.81,john.brown91@university.edu,True
+S74164,Linda,Johnson,Engineering,3.85,linda.johnson96@university.edu,True
+S74573,Robert,Johnson,Engineering,3.4,robert.johnson89@university.edu,True
+S17473,Linda,Johnson,Engineering,2.72,linda.johnson99@university.edu,True
+S73032,Jennifer,Rodriguez,Data Science,2.43,jennifer.rodriguez89@university.edu,True
+S49771,Mary,Miller,Engineering,3.06,mary.miller85@university.edu,True
